@@ -1,0 +1,41 @@
+div.karta {
+    width: 132px;
+    height: 132px;
+    border: 1px solved solid;
+    margin: 2px;
+    float:left;
+}
+div.plansza {
+    border: 1px gray solid;
+    width: 552px;
+}
+.karta-1 {
+    background: url('../img/1.png') no-repeat !important;
+}
+.karta-2 {
+    background: url('../img/2.png') no-repeat !important;
+}
+.karta-3 {
+    background: url('../img/3.png') no-repeat !important;
+}
+.karta-4 {
+    background: url('../img/4.png') no-repeat !important;
+}
+.karta-5 {
+    background: url('../img/5.png') no-repeat !important;
+}
+.karta-6 {
+    background: url('../img/6.png') no-repeat !important;
+}
+.karta-7 {
+    background: url('../img/7.png') no-repeat !important;
+}
+.karta-8 {
+    background: url('../img/8.png') no-repeat !important;
+}
+.karta-zakryta {
+    background: url('../img/x.png') no-repeat !important;
+}
+.ukryte {
+    visibility:hidden;
+}
